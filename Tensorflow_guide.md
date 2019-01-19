@@ -107,7 +107,7 @@
     Go to https://developer.nvidia.com/cudnn and download **cuDNN Library for Linux**, it should be a `.tgz` file.
 
     ```shell
-    tar -xf cudnn-10.0-linux-x74-v7.4.1.5.tgz
+    tar -xf cudnn-10.0-linux-x64-v7.4.1.5.tgz
     sudo cp -R cuda/include/* /usr/local/cuda-10.0/include
     sudo cp -R cuda/lib64/* /usr/local/cuda-10.0/lib64
     ```
