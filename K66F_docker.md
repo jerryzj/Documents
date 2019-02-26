@@ -93,7 +93,7 @@ docker run -it /mnt/usb:/mnt/usb  ubuntu:18.04 /bin/bash
     ---
     ```
 
-    Just copy the ``mbed-os-example-blinky.bin.bin`` to the mount point.
+    Just copy the ``mbed-os-example-blinky.bin`` to the mount point.
 
     ```shell
     cp ./BUILD/K66F/GCC_ARM/mbed-os-example-blinky.bin /mnt/usb/
