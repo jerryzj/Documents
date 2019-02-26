@@ -43,7 +43,7 @@ After docker is installed, you can see a new app **Docker** in ``/Applications``
 5. Mount the USB drive to the newly created mount point.
 
     ```shell
-    sudo diskutil mount -mountPoint /mnt/usb /dev/disk3s1
+    sudo diskutil mount -mountPoint /mnt/usb /dev/disk2
     ```
 
 6. Verify that the drive has been properly mounted:
