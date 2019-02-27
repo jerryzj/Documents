@@ -66,7 +66,7 @@ After docker is installed, you can see a new app **Docker** in ``/Applications``
 Run a container with the following command. K66F will be mounted at ``/mnt/usb`` inside the container.
 
 ```shell
-docker run -it /mnt/usb:/mnt/usb  ubuntu:18.04 /bin/bash
+docker run -it -v /mnt/usb:/mnt/usb  ubuntu:18.04 /bin/bash
 ```
 
 ## Notes
