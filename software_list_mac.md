@@ -1,8 +1,8 @@
 # Software List for Mac
 
 1. Xcode: Toolchain(clang, vim, git…)
-2. Office 365: No need to explain
-3. Fantastical 2: A beautifual Calendar app
+2. Office 365: No need to explain...
+3. Fantastical 2: A beautifual calendar app
 4. Notability: Take notes
 5. PDF Expert: Read/Edit PDF files
 6. Magnet: Window management
@@ -11,9 +11,9 @@
 9. Screens: VNC client
 10. Alfred: Laucher to accelerate daily operation
 11. Flume: Instgram client for Mac (3rd party)
-12. AdGuard: System wide ad blocker
+12. AdGuard: Systemwide ad blocker
 13. VScode: Code editor
-14. MacPort / Homebrew: Package manager, prefer MacPort since security issue
+14. MacPort / Homebrew: Package manager, prefer MacPort due to security issue
 15. Boom3D: EQ
 16. Dozer: Hide menubar icons
 17. Password Management (1Password or Enpass)
