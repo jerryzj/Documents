@@ -27,4 +27,5 @@
 25. MiniPlay: Shows currently playing in Spotify/Apple Music
 26. Keka: Zip/Unzip files
 27. iina: Media Player
-28. Google Sync: Backup data
+28. Google Sync & Dropbox : Backup data
+29. Omni Graffle: For vector graphics
